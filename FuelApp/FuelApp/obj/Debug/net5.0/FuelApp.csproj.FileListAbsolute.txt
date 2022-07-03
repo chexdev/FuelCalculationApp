@@ -1,0 +1,15 @@
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/FuelApp.deps.json
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/FuelApp.runtimeconfig.json
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/FuelApp.runtimeconfig.dev.json
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/FuelApp.dll
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/ref/FuelApp.dll
+/Users/xchen/Projects/FuelApp/FuelApp/bin/Debug/net5.0/FuelApp.pdb
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.csproj.AssemblyReference.cache
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.AssemblyInfoInputs.cache
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.AssemblyInfo.cs
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.csproj.CoreCompileInputs.cache
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.dll
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/ref/FuelApp.dll
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.pdb
+/Users/xchen/Projects/FuelApp/FuelApp/obj/Debug/net5.0/FuelApp.genruntimeconfig.cache
